@@ -1,4 +1,4 @@
-This is a fork of https://github.com/netneurolab/markello_spatialnulls
+This is a fork of [netneurolab/markello_spatialnulls](https://github.com/netneurolab/markello_spatialnulls/tree/master/parspin). All rights belong to the original authors.
 
 > # parspin
 >
